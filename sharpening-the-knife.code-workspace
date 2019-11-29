@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "."
+		},
+		{
+			"path": "hard\\GFG\\longest-valid-parantheses"
 		}
 	],
 	"settings": {}
